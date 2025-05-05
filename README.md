@@ -36,4 +36,4 @@ While working on this project, I practiced:
 ## 👤 Author
 
 - GitHub – [ME](https://github.com/kenoleeee)
-- Frontend Mentor – [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- [Frontend Mentor](https://www.frontendmentor.io)
